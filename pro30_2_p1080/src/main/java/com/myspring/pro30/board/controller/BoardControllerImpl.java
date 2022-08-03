@@ -303,13 +303,14 @@ public class BoardControllerImpl  implements BoardController{
 
 	
 
-	@RequestMapping(value = "/board/*Form.do", method =  RequestMethod.GET)
-	private ModelAndView form(HttpServletRequest request, HttpServletResponse response) throws Exception {
-		String viewName = (String)request.getAttribute("viewName");
-		ModelAndView mav = new ModelAndView();
-		mav.setViewName(viewName);
-		return mav;
-	}
+  @RequestMapping(value = "/board/*Form.do", method = RequestMethod.GET)
+  private ModelAndView form(HttpServletRequest request, HttpServletResponse response)
+  throws Exception {
+  String viewName = (String)request.getAttribute("viewName");
+  ModelAndView mav = new ModelAndView();
+  mav.setViewName(viewName);
+  return mav;
+  }
 
 	//한개 이미지 업로드하기
 	private String upload(MultipartHttpServletRequest multipartRequest) throws Exception{

@@ -6,8 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value=""/>
 		<list key="findhistory">
-			<item value="sel"/>
+			<item value="remo"/>
+			<item value="tr_file_upload"/>
+			<item value="FF9933"/>
+			<item value="tr_btn"/>
+			<item value="original"/>
+			<item value="1.6"/>
+			<item value="hidden"/>
+			<item value="modar"/>
+			<item value="mod"/>
+			<item value="modAr"/>
+			<item value="article.id"/>
+			<item value="img src"/>
+			<item value="remove"/>
+			<item value="re"/>
+			<item value="tiles"/>
 		</list>
 		<list key="replacehistory">
 		</list>
