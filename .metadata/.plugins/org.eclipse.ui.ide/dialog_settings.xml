@@ -109,6 +109,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\psh_data\sts_data\pro30_5_p1110"/>
 			<item value="D:\psh_data\sts_data\pro30"/>
 			<item value="D:\psh_data\sts_data\pro30_3_p1090"/>
 			<item value="C:\Users\ez220406\Downloads\pro30_3_p1090"/>
