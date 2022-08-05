@@ -1,12 +1,11 @@
 INDEX VERSION 1.4+D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-1073008000.index
 611830183.index
-2641757084.index
-710091376.index
 1295492845.index
 757870637.index
-70466272.index
 1790715269.index
-1666398326.index
 2487545169.index
-2862067336.index
+1441083686.index
+70466272.index
+1666398326.index
+1073008000.index
+710091376.index

@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Thu Aug 04 15:33:52 KST 2022
-org.eclipse.jst.jee.server\:pro30_5_p1110=C\:\\apache-tomcat-9\\wtpwebapps\\pro30_5_p1110
+#Fri Aug 05 13:45:02 KST 2022
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ez220406\\.m2\\repository\\org\\springframework\\spring-web\\4.1.1.RELEASE\\spring-web-4.1.1.RELEASE.jar=C\:\\apache-tomcat-9\\wtpwebapps\\bookShop01\\WEB-INF\\lib\\spring-web-4.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:bookShop01=C\:\\apache-tomcat-9\\wtpwebapps\\bookShop01

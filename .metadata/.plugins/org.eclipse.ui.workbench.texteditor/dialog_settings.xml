@@ -6,8 +6,14 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="select"/>
+		<item key="selection" value="imageFileName"/>
 		<list key="findhistory">
+			<item value="imageFileName"/>
+			<item value="다중"/>
+			<item value="추가"/>
+			<item value="1.6"/>
+			<item value="UTF-8"/>
+			<item value="UTF8"/>
 			<item value="select"/>
 			<item value="upload"/>
 			<item value="remo"/>
@@ -15,21 +21,15 @@
 			<item value="FF9933"/>
 			<item value="tr_btn"/>
 			<item value="original"/>
-			<item value="1.6"/>
 			<item value="hidden"/>
 			<item value="modar"/>
-			<item value="mod"/>
-			<item value="modAr"/>
-			<item value="article.id"/>
-			<item value="img src"/>
-			<item value="remove"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="824"/>
-		<item key="DIALOG_Y_ORIGIN" value="268"/>
+		<item key="DIALOG_X_ORIGIN" value="1203"/>
+		<item key="DIALOG_Y_ORIGIN" value="250"/>
 		<item key="DIALOG_WIDTH" value="288"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
