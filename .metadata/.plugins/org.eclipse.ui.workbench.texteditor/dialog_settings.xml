@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="imageFileName"/>
+		<item key="selection" value="1.6"/>
 		<list key="findhistory">
+			<item value="1.6"/>
+			<item value="exclu"/>
+			<item value="&lt;dependency&gt;"/>
+			<item value="tiles"/>
+			<item value="filter"/>
+			<item value="filt"/>
+			<item value="file"/>
+			<item value="add"/>
+			<item value="mybatis"/>
 			<item value="imageFileName"/>
 			<item value="다중"/>
 			<item value="추가"/>
-			<item value="1.6"/>
 			<item value="UTF-8"/>
 			<item value="UTF8"/>
 			<item value="select"/>
-			<item value="upload"/>
-			<item value="remo"/>
-			<item value="tr_file_upload"/>
-			<item value="FF9933"/>
-			<item value="tr_btn"/>
-			<item value="original"/>
-			<item value="hidden"/>
-			<item value="modar"/>
 		</list>
 		<list key="replacehistory">
 		</list>
