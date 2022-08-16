@@ -1,5 +1,5 @@
 #Tomcat publish data
-#Fri Aug 12 17:50:48 KST 2022
-org.eclipse.jst.jee.server\:ex00=C\:\\apache-tomcat-9\\wtpwebapps\\ex00
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ez220406\\.m2\\repository\\org\\springframework\\spring-web\\5.2.7.RELEASE\\spring-web-5.2.7.RELEASE.jar=C\:\\apache-tomcat-9\\wtpwebapps\\pro31_my\\WEB-INF\\lib\\spring-web-5.2.7.RELEASE.jar
+#Tue Aug 16 16:48:40 KST 2022
+org.eclipse.jst.jee.server\:ex01=C\:\\apache-tomcat-9\\wtpwebapps\\ex01
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ez220406\\.m2\\repository\\org\\springframework\\spring-web\\5.2.7.RELEASE\\spring-web-5.2.7.RELEASE.jar=C\:\\apache-tomcat-9\\wtpwebapps\\ex01\\WEB-INF\\lib\\spring-web-5.2.7.RELEASE.jar
 org.eclipse.jst.jee.server\:pro31_my=C\:\\apache-tomcat-9\\wtpwebapps\\pro31_my

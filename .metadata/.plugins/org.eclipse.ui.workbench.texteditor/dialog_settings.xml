@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="1.6"/>
+		<item key="selection" value="Test"/>
 		<list key="findhistory">
 			<item value="1.6"/>
+			<item value="Test"/>
+			<item value="lombok"/>
+			<item value="driverClass"/>
+			<item value="driver"/>
+			<item value="goodsList"/>
+			<item value="goods"/>
+			<item value="List"/>
+			<item value="plug"/>
+			<item value="plig"/>
+			<item value="apach"/>
+			<item value="poi"/>
 			<item value="exclu"/>
 			<item value="&lt;dependency&gt;"/>
 			<item value="tiles"/>
-			<item value="filter"/>
-			<item value="filt"/>
-			<item value="file"/>
-			<item value="add"/>
-			<item value="mybatis"/>
-			<item value="imageFileName"/>
-			<item value="다중"/>
-			<item value="추가"/>
-			<item value="UTF-8"/>
-			<item value="UTF8"/>
-			<item value="select"/>
 		</list>
 		<list key="replacehistory">
 		</list>

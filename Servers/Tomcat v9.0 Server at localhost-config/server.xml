@@ -164,7 +164,7 @@
       
       
        
-       <Context docBase="pro31_my" path="/test" reloadable="true" source="org.eclipse.jst.jee.server:pro31_my"/></Host>
+       <Context docBase="ex01" path="/" reloadable="true" source="org.eclipse.jst.jee.server:ex01"/></Host>
     </Engine>
   </Service>
 </Server>

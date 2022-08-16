@@ -29,6 +29,8 @@ D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\20940
 \bookShop01\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1524658155.index
 \bookShop01\src\main\java
+D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3012140731.index
+\ex01\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3547181147.index
 \pro30\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1341044295.index
