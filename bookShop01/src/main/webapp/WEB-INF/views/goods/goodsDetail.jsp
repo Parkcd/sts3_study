@@ -222,10 +222,11 @@ function fn_order_each_goods(goods_id,goods_title,goods_sales_price,fileName){
 		<ul class="tabs">
 			<li><a href="#tab1">책소개</a></li>
 			<li><a href="#tab2">저자소개</a></li>
-			<li><a href="#tab3">책목차</a></li>
+			<li><a href="#tab3">상품저자소개</a></li>
 			<li><a href="#tab4">출판사서평</a></li>
 			<li><a href="#tab5">추천사</a></li>
-			<li><a href="#tab6">리뷰</a></li>
+			
+
 		</ul>
 		<div class="tab_container">
 			<div class="tab_content" id="tab1">
@@ -243,10 +244,10 @@ function fn_order_each_goods(goods_id,goods_title,goods_sales_price,fileName){
 				 <p>${fn:replace(goods.goods_writer_intro,crcn,br) }</p> 
 				
 			</div>
-			<div class="tab_content" id="tab3">
+			<%-- <div class="tab_content" id="tab3">
 				<h4>책목차</h4>
 				<p>${fn:replace(goods.goods_contents_order,crcn,br)}</p> 
-			</div>
+			</div> --%>
 			<div class="tab_content" id="tab4">
 				<h4>출판사서평</h4>
 				 <p>${fn:replace(goods.goods_publisher_comment ,crcn,br)}</p> 
@@ -255,9 +256,9 @@ function fn_order_each_goods(goods_id,goods_title,goods_sales_price,fileName){
 				<h4>추천사</h4>
 				<p>${fn:replace(goods.goods_recommendation,crcn,br) }</p>
 			</div>
-			<div class="tab_content" id="tab6">
+			<!-- <div class="tab_content" id="tab6">
 				<h4>리뷰</h4>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<div class="clear"></div>

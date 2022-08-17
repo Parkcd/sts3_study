@@ -23,6 +23,8 @@ D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\13412
 \firstSpring\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3417535727.index
 \pro30_3_p1090\src\main\java
+D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2694948808.index
+\ex02\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2695688913.index
 \pro31_my\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2094002893.index
@@ -71,3 +73,5 @@ D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\31923
 \pro30_3_p1090\src\main\java
 D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2085271330.index
 \test00\src\main\java
+D:\psh_data\sts_data\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2415907875.index
+\ex01\src\main\java

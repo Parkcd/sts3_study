@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="Test"/>
+		<item key="selection" value="dis"/>
 		<list key="findhistory">
+			<item value="dis"/>
+			<item value="tile"/>
 			<item value="1.6"/>
-			<item value="Test"/>
+			<item value="maven-com"/>
+			<item value="maven"/>
+			<item value="javax.servlet"/>
 			<item value="lombok"/>
-			<item value="driverClass"/>
-			<item value="driver"/>
-			<item value="goodsList"/>
-			<item value="goods"/>
-			<item value="List"/>
-			<item value="plug"/>
-			<item value="plig"/>
-			<item value="apach"/>
-			<item value="poi"/>
-			<item value="exclu"/>
-			<item value="&lt;dependency&gt;"/>
-			<item value="tiles"/>
+			<item value="junit"/>
+			<item value="HikariCP"/>
+			<item value="spring-tx"/>
+			<item value="spring-jdbc"/>
+			<item value="log4"/>
+			<item value="log"/>
+			<item value="log4jdbc"/>
+			<item value="zaxx"/>
 		</list>
 		<list key="replacehistory">
 		</list>

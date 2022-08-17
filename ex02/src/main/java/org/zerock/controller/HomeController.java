@@ -1,4 +1,4 @@
-package com.myspring.pro30;
+package org.zerock.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 /**
  * Handles requests for the application home page.
  */
-//@Controller
+@Controller
 public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);

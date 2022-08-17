@@ -10,9 +10,9 @@
 
 <div id="ad_main_banner">
 	<ul class="bjqs">	 	
-	  <li><img width="775" height="145" src="${contextPath}/resources/image/main_banner01.jpg"></li>
-		<li><img width="775" height="145" src="${contextPath}/resources/image/main_banner02.jpg"></li>
-		<li><img width="775" height="145" src="${contextPath}/resources/image/main_banner03.jpg"></li> 
+	  <li><img width="775" height="145" src="${contextPath}/resources/image/banner01.jpg"></li>
+		<li><img width="775" height="145" src="${contextPath}/resources/image/banner02.jpg"></li>
+		<li><img width="775" height="145" src="${contextPath}/resources/image/banner03.jpg"></li> 
 	</ul>
 </div>
 <div class="main_book">
