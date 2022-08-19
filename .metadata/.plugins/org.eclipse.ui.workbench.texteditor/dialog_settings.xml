@@ -6,29 +6,29 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="dis"/>
+		<item key="selection" value="dbcp"/>
 		<list key="findhistory">
-			<item value="dis"/>
-			<item value="tile"/>
-			<item value="1.6"/>
-			<item value="maven-com"/>
-			<item value="maven"/>
-			<item value="javax.servlet"/>
-			<item value="lombok"/>
-			<item value="junit"/>
-			<item value="HikariCP"/>
-			<item value="spring-tx"/>
+			<item value="dbcp"/>
 			<item value="spring-jdbc"/>
-			<item value="log4"/>
-			<item value="log"/>
-			<item value="log4jdbc"/>
-			<item value="zaxx"/>
+			<item value="1.6"/>
+			<item value="조회"/>
+			<item value="까지"/>
+			<item value="4개월"/>
+			<item value="당일"/>
+			<item value="disabled"/>
+			<item value="disable"/>
+			<item value="dis"/>
+			<item value="update count"/>
+			<item value="update"/>
+			<item value="insert into"/>
+			<item value="org.zerock.mapper.BoardMapperTests"/>
+			<item value="plug"/>
 		</list>
 		<list key="replacehistory">
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1203"/>
+		<item key="DIALOG_X_ORIGIN" value="1151"/>
 		<item key="DIALOG_Y_ORIGIN" value="250"/>
 		<item key="DIALOG_WIDTH" value="288"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
