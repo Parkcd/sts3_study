@@ -110,6 +110,10 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\psh_data\sts_data\interiorshop01\interiorshop01"/>
+			<item value="D:\psh_data\sts_data\ex02_2"/>
+			<item value="D:\psh_data\sts_data\ex02_p222_backend_final"/>
+			<item value="D:\psh_data\sts_data\interiorshop"/>
 			<item value="D:\psh_data\sts_data\bookShop01"/>
 			<item value="D:\psh_data\sts_data\pro30_5_p1110"/>
 			<item value="D:\psh_data\sts_data\pro30"/>
@@ -121,5 +125,11 @@
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
 		</list>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>
