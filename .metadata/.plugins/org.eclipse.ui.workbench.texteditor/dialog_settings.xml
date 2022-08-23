@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="status"/>
+		<item key="selection" value="add"/>
 		<list key="findhistory">
-			<item value="status"/>
-			<item value="disabled"/>
+			<item value="add"/>
+			<item value="remove"/>
+			<item value="출판일"/>
+			<item value="face"/>
+			<item value="Logo2"/>
+			<item value="logo"/>
+			<item value="최근"/>
 			<item value="제품분류"/>
 			<item value="제품"/>
+			<item value="board list"/>
+			<item value="board"/>
+			<item value="status"/>
+			<item value="disabled"/>
 			<item value="1.6"/>
 			<item value="mysql"/>
-			<item value="get"/>
-			<item value="gate"/>
-			<item value="end pa"/>
-			<item value="end"/>
-			<item value="&#x09;&lt;filter&gt;"/>
-			<item value="dataTables"/>
-			<item value="dataTable"/>
-			<item value="dataTa"/>
-			<item value="data"/>
 		</list>
 		<list key="replacehistory">
 			<item value="/resources/"/>
