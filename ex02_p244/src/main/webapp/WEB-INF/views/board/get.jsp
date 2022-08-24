@@ -18,7 +18,7 @@
                         <div class="panel-heading">Board Read Page</div>
                         <!-- /.panel-heading -->
                         <div class="panel-body">
-                           
+                           <form id='operForm' action="/board/modify" method="post">
                           <div class="form-group">
                               <label>Bno</label><input class="form-control" name="bno"
                               value='<c:out value="${board.bno}"/>' readonly="readonly">
@@ -40,14 +40,16 @@
                             <label>Writer</label> <input class="form-control" name='writer' value='<c:out value="${board.writer}"/>' readonly="readonly">
                                       
                           </div>
-                          <button data-oper='modify' class="btn btn-default" onclick="location.href='/board/modify?bno=<c:out value="${board.bno }"/>'">Modify</button>
-                          <button data-oper='list' class="btn btn-info" onclick="location.href='/board/list'">List</button>       
-                             
-               			 </div>
-                        <!-- /.panel-body -->
-                		 </div>    
-                    <!-- /.panel -->
-                   </div>
-            <!-- /.row -->
+                          <button type="submit" class="btn btn-default"><a href='/board/list'>List</a></button>
+				       	  <button type="reset" class="btn btn-default"><a href='/board/modify?bno=<c:out value="${board.bno }"/>'>Modify</a></button>
+		     			 </form>
+	
+                    </div>
+                </div>
+            </div>    
+            <!-- /.row -->   
+                            
+            
+
 
 <%@include file="../includes/footer.jsp" %>        

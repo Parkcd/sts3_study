@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="add"/>
+		<item key="selection" value="삭제"/>
 		<list key="findhistory">
+			<item value="삭제"/>
+			<item value="저"/>
+			<item value="저자"/>
+			<item value="상품목차"/>
+			<item value="상품 목차"/>
+			<item value="상품"/>
+			<item value="페이지 수"/>
+			<item value="페이지"/>
+			<item value="수량"/>
+			<item value="출판일"/>
+			<item value="출판"/>
+			<item value="정가"/>
+			<item value="책소개"/>
 			<item value="add"/>
 			<item value="remove"/>
-			<item value="출판일"/>
-			<item value="face"/>
-			<item value="Logo2"/>
-			<item value="logo"/>
-			<item value="최근"/>
-			<item value="제품분류"/>
-			<item value="제품"/>
-			<item value="board list"/>
-			<item value="board"/>
-			<item value="status"/>
-			<item value="disabled"/>
-			<item value="1.6"/>
-			<item value="mysql"/>
 		</list>
 		<list key="replacehistory">
 			<item value="/resources/"/>
@@ -30,7 +30,7 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="1011"/>
+		<item key="DIALOG_X_ORIGIN" value="900"/>
 		<item key="DIALOG_Y_ORIGIN" value="250"/>
 		<item key="DIALOG_WIDTH" value="288"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
